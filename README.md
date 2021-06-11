@@ -1,6 +1,7 @@
 # GOGOCODE
 
 东半球最简单易上手，可读性最强的 AST 处理工具！
+全网最简单易上手，可读性最强的 AST 处理工具！集成了许多方便快捷的工具！
 
 官网：https://gogocode.io
 
@@ -129,7 +130,7 @@ $(code)
 <img src="http://alp.alicdn.com/1615836725013-1244-520.png"/>
 
 
-### .parent(level)
+### .parent(level)  废弃了
 获取某个父节点
 
 | 入参 | 说明 | 类型 | 默认值 |
