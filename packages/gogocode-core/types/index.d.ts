@@ -20,7 +20,7 @@ declare module 'gogocode' {
 
     interface FindOption {
       /**
-       * 匹配时是否忽略顺序
+       * 匹配时是否忽略顺序 --
        * 忽略顺序的情况：{a:$_$}匹配{b:1, a:2}
        * 需要严格按照顺序匹配的情况：function($_$, b){} 匹配function(a, b){}
        * 默认为 false
